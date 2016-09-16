@@ -9,6 +9,7 @@
 3. An obvious color for comments – comments are part of a program
 
 ![demo](https://cloud.githubusercontent.com/assets/594141/18574220/921b81f6-7bfd-11e6-931a-17c632703b4a.png)
+
 ↑ with [Ubuntu Mono](http://font.ubuntu.com/) and
 [mosky.vim](https://github.com/moskytw/mosky.vim/tree/nvim).
 
