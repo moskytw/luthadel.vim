@@ -137,7 +137,7 @@ hi clear Tooltip
 " if 21 (#0000ff) and underline -> to be define
 " }}}
 
-let g:colors_name='luthadel'
+let colors_name='luthadel'
 set background=dark
 
 " conventional groups
