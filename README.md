@@ -19,7 +19,7 @@ Luthadel is the capital of the [Final
 Empire](https://en.wikipedia.org/wiki/Mistborn:_The_Final_Empire), one of the
 best fantasy novels.
 
-## Report an Issue
+## Report Issue
 
 It meets the unadorned requirements of Python development, but any feature
 request or bug report is welcome. Send mail to Mosky <mosky.tw@gmail.com>.
