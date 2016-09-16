@@ -205,6 +205,7 @@ hi SpecialKey   ctermfg=239
 hi VertSplit    ctermfg=239
 " set colorcolumn=81
 hi ColorColumn  ctermfg=196
+hi SignColumn   ctermfg=196
 
 " ( _)_
 hi MatchParen   ctermbg=20
@@ -240,7 +241,6 @@ hi Title        ctermfg=231
 
 " TBC
 hi Conceal      ctermbg=21 cterm=underline
-hi SignColumn   ctermfg=21 cterm=underline
 
 " GUI
 
