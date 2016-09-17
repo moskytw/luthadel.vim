@@ -10,7 +10,7 @@ The primary color palette:
 2. A comfortable feeling by gradually colors
 3. An obvious color for comments – they are part of a program!
 
-![demo](https://cloud.githubusercontent.com/assets/594141/18574220/921b81f6-7bfd-11e6-931a-17c632703b4a.png)
+![preview](https://cloud.githubusercontent.com/assets/594141/18606726/a112dc98-7cea-11e6-99e2-cd7482f7bd7c.png)
 
 ↑ with [Ubuntu Mono](http://font.ubuntu.com/) and
 [mosky.vim](https://github.com/moskytw/mosky.vim/tree/nvim). Note the images are
