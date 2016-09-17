@@ -8,7 +8,7 @@ The primary color palette:
 
 1. A clear color scheme using limited colors
 2. A comfortable feeling by gradually colors
-3. An obvious color for comments – they are part of a program!
+3. An easy-to-read color for comments – they are part of a program!
 
 Use it with [Ubuntu Mono](http://font.ubuntu.com/) and
 [mosky.vim](https://github.com/moskytw/mosky.vim/tree/nvim), note the colors are lossy:
