@@ -7,7 +7,7 @@ The primary color palette:
 ## Features
 
 1. A clear color scheme using limited colors
-2. A comfortable feeling by gradually colors
+2. A comfortable feeling by gradual colors
 3. An easy-to-read color for comments – they are part of a program!
 
 Use it with [Ubuntu Mono](http://font.ubuntu.com/) and
