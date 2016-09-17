@@ -1,5 +1,7 @@
 # “Luthadel” Vim Color Scheme
 
+The primary color palette:
+
 ![color_palette_primary](https://cloud.githubusercontent.com/assets/594141/18574221/921d8a64-7bfd-11e6-9899-c84e3e0e6e0c.png)
 
 ## Features
