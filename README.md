@@ -24,4 +24,4 @@ best fantasy novels.
 ## Report Issue
 
 It meets the unadorned requirements of Python development, but any feature
-request or bug report is welcome. Send mail to Mosky <mosky.tw@gmail.com>.
+request or bug report is welcome. Just file an issue on GitHub.
