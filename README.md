@@ -10,8 +10,8 @@ The primary color palette:
 2. A comfortable feeling by gradual colors
 3. An easy-to-read color for comments – they are part of a program!
 
-Use it with [Ubuntu Mono](http://font.ubuntu.com/) and
-[mosky.vim](https://github.com/moskytw/mosky.vim), note the colors are lossy:
+A screenshot using it with [Ubuntu Mono](http://font.ubuntu.com/) and
+[mosky.vim](https://github.com/moskytw/mosky.vim). Note the colors are lossy:
 
 ![preview](https://cloud.githubusercontent.com/assets/594141/18606726/a112dc98-7cea-11e6-99e2-cd7482f7bd7c.png)
 
