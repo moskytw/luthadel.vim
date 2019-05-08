@@ -210,7 +210,7 @@ hi SignColumn   ctermfg=196
 " ( _)_
 hi MatchParen   ctermbg=20
 
-hi IncSearch    ctermbg=20
+hi IncSearch    cterm=reverse
 hi Search       ctermbg=20
 
 " popup menu: Ctrl-N
